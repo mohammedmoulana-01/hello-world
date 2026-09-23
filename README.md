@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+hi,I'm Mohammed Moulana. I'm learning Git and coding.
