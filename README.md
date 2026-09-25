@@ -12,3 +12,18 @@ My GitHub profile project
 Learning team Git workflow
 Learning GitHub collaboration.
 GitHub Issues help us track tasks and bugs.
+## Project
+
+This project is used to practice Git and GitHub.
+
+## What I learned
+
+- Git basics
+- Branches
+- Pull Requests
+- Merge conflicts
+- Stash
+- .gitignore
+- Tags
+- GitHub Issues
+- GitHub Actions
