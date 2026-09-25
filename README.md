@@ -11,3 +11,4 @@ Learning Git diff
 My GitHub profile project
 Learning team Git workflow
 Learning GitHub collaboration.
+GitHub Issues help us track tasks and bugs.
