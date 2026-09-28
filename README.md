@@ -26,4 +26,4 @@ This project is used to practice Git and GitHub.
 - .gitignore
 - Tags
 - GitHub Issues
-- GitHub Actions
+- GitHub ActionsReset practice
